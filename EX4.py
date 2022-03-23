@@ -1,0 +1,8 @@
+x = input("Digite um algo:")
+print(type(x))
+print(x.isalnum())
+print(x.isalpha())
+print(x.isascii())
+print(x.isdecimal())
+print(x.isprintable())
+print(x.isdigit())
